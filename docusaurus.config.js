@@ -128,15 +128,11 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/wxhzhwxhzh',
+                href: 'https://github.com/Tester-1991',
               },
               {
                 label: 'CSDN',
-                href: '#',
-              },
-              {
-                label: '知乎',
-                href: '#',
+                href: 'https://blog.csdn.net/qq_22693733',
               },
             ],
           },

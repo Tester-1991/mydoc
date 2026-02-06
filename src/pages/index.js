@@ -47,7 +47,7 @@ function ContactSection() {
             <div className={styles.socialLinks}>
               <Link
                 className="button button--primary"
-                href="https://github.com/wxhzhwxhzh">
+                href="https://github.com/Tester-1991">
                 GitHub
               </Link>
               <Link
