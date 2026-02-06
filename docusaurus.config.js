@@ -171,14 +171,14 @@ const config = {
       ],
 
       // ---------- 公告栏 ----------
-      announcementBar: {
-        id: 'support_us',
-        content:
-          '⭐️ 如果你喜欢这个网站，请在 <a target="_blank" rel="noopener noreferrer" href="https://github.com/wxhzhwxhzh">GitHub</a> 给我们一个 Star！',
-        backgroundColor: '#fafbfc',
-        textColor: '#091E42',
-        isCloseable: true,
-      },
+//      announcementBar: {
+//        id: 'support_us',
+//        content:
+//          '⭐️ 如果你喜欢这个网站，请在 <a target="_blank" rel="noopener noreferrer" href="https://github.com/wxhzhwxhzh">GitHub</a> 给我们一个 Star！',
+//        backgroundColor: '#fafbfc',
+//        textColor: '#091E42',
+//        isCloseable: true,
+//      },
     }),
 };
 
