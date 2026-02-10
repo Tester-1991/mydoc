@@ -1,6 +1,6 @@
 ---
 id: 9
-title: bool()
+title: bytes()
 sidebar_position: 9
 ---
 `bytes()` 是 Python 的内置函数，用于创建一个**不可变**的字节序列（bytes object）。
