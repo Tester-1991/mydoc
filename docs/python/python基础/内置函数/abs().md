@@ -1,6 +1,6 @@
 ---
 id: 1
-title: abs
+title: abs()
 sidebar_position: 1
 ---
 `abs()` 是 Python 的一个内置函数，全称为 **Absolute Value**（绝对值）。它的作用非常纯粹：**返回一个数的绝对值**。
