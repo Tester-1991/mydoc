@@ -133,5 +133,5 @@ python my_script.py > run.log 2>&1
 4.  **线程安全**：多线程环境下，多个 `print` 的输出可能会交织在一起（乱序）。
 
 **总结建议**：
-*   **开发调试、CLI 工具、简单脚本** $\rightarrow$ 使用 `print()`
-*   **生产环境、Web 服务、长期运行的任务** $\rightarrow$ 使用 `logging` 模块
+*   **开发调试、CLI 工具、简单脚本** → 使用 `print()`
+*   **生产环境、Web 服务、长期运行的任务** → 使用 `logging` 模块
